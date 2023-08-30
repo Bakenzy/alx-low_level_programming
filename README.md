@@ -1,1 +1,1 @@
-readme file for c programmingh
+readme file for c programming
